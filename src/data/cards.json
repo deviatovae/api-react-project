@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Soy Candle Oud Sahara",
+    "price": 9.99,
+    "time": 40,
+    "rating": 4,
+    "image": "/img/3.jpeg",
+    "description": "Oud Sahara features rich notes of Vanilla, Exotic Woods and Bergamot. Hand Poured with vegan 100% soy wax and eco-friendly wicks."
+  },
+  {
+    "id": 2,
+    "name": "Soy Candle Lait de Coco",
+    "price": 8.99,
+    "time": 40,
+    "rating": 5,
+    "image": "/img/6.jpeg",
+    "description": "Lait de Coco captures the essence of a Creamy Coconut that you would find on an island. With fresh notes of warm Vanilla Praline, this fragrance is the ultimate coconut scent that you can burn year-round."
+  },
+  {
+    "id": 3,
+    "name": "Soy Candle Pistachio Brûlée",
+    "price": 9.99,
+    "time": 40,
+    "rating": 5,
+    "image": "/img/10.jpeg",
+    "description": "Pistachio Brûlée features sweet notes of Milky Mousse, Pistachio Crumbs and Vanilla.\n\nMust-have, ingredient inspired and ever-trending fine fragrance."
+  },
+  {
+    "id": 4,
+    "name": "Soy Candle Figue du Foret",
+    "price": 9.99,
+    "time": 40,
+    "rating": 5,
+    "image": "/img/13.jpeg",
+    "description": "The combination of black fig and vetiver releases natural, woody notes with a hint of sweetness, reminiscent of the scent of cut grass on a warm Spring day."
+  },
+  {
+    "id": 5,
+    "name": "Soy Candle Eucalyptus Oil",
+    "price": 5.99,
+    "time": 20,
+    "rating": 5,
+    "image": "/img/5.jpeg",
+    "description": "This candle contains locally sourced Eucalyptus oils. This essential oil has natural cleansing, anti-bacterial properties. In aromatherapy, the aroma of Eucalyptus Essential Oil enhances the feeling of relaxation and calms nervous tension."
+  },
+  {
+    "id": 6,
+    "name": "White Jasmine Candle",
+    "price": 3.99,
+    "time": 20,
+    "rating": 4,
+    "image": "/img/1.jpeg",
+    "description": "An enchanting floral bouquet of rich jasmine and blooming white gardenia wrap around notes of golden amber and blonde woods."
+  },
+  {
+    "id": 7,
+    "name": "Soy Candle Lavender Dream",
+    "price": 5.99,
+    "time": 15,
+    "rating": 4,
+    "image": "/img/2.jpeg",
+    "description": "Clean and inviting, this powdery fresh scent blends tangy lemon citrus and sweet lavender flowers. Natural fiber candle wick delivers the best burn for each fragrance"
+  },
+  {
+    "id": 8,
+    "name": "Soy Candle Cotton Candy",
+    "price": 9.99,
+    "time": 40,
+    "rating": 15,
+    "image": "/img/4.jpeg",
+    "description": "The candle is made from high-quality wax and burns evenly, providing a consistent fragrance throughout its life. The sweet candy scent lingers long after the candle has been blown out, leaving a pleasant aroma in the room. The candle also has a long burn time, allowing you to enjoy the fragrance for many hours."
+  },
+  {
+    "id": 9,
+    "name": "Soy Candle Tender Petals",
+    "price": 3.99,
+    "time": 15,
+    "rating": 4,
+    "image": "/img/7.jpeg",
+    "description": "A true gem for those who love fresh, floral fragrances. From the moment you light it, the candle fills the room with a lovely aroma that is reminiscent of a blooming lilac garden. The scent is well balanced and not overpowering, making it perfect for those who enjoy a subtle fragrance."
+  },
+  {
+    "id": 20,
+    "name": "Soy Candle Vanilla Sky",
+    "price": 3.99,
+    "time": 15,
+    "rating": 5,
+    "image": "/img/8.jpeg",
+    "description": "Sweet and traditional, the essence of vanilla extracted from tropical orchids. 100% recyclable in partnership with TetraCycle"
+  },
+  {
+    "id": 11,
+    "name": "Soy Candle Cedar Forest",
+    "price": 4.99,
+    "time": 15,
+    "rating": 5,
+    "image": "/img/9.jpeg",
+    "description": " Balsam and oak moss mingle with aromatic cedar wood, cinnamon and eucalyptus in our quintessential holiday fragrance."
+  },
+  {
+    "id": 12,
+    "name": "Soy Candle Walnut Butter",
+    "price": 3.99,
+    "time": 20,
+    "rating": 15,
+    "image": "/img/11.jpeg",
+    "description": "Fragrance notes of Walnut and Fresh Cut Balsam. Pure, snow white colored food-grade paraffin wax, fragranced by the finest scented oils."
+  },
+  {
+    "id": 13,
+    "name": "Soy Candle Cotton Coral",
+    "price": 5.99,
+    "time": 15,
+    "rating": 4,
+    "image": "/img/12.jpeg",
+    "description": "Cotton smells like freshly washed, sun-dried bed linen and a cozy sunday with absolutely no appointments. A real feel-good scent!\n\nThis scented candle is made from 100% natural soy wax"
+  },
+  {
+    "id": 14,
+    "name": "Soy Candle Dry flowers",
+    "price": 4.99,
+    "time": 10,
+    "rating": 5,
+    "image": "/img/14.jpeg",
+    "description": "This candle's fresh scent will transport you to a big dewy bouquet of pastel roses with notes of almond blossom, apricot, and mirabelle plum. Grab this rose scented candle while it's still in season. An expertly curated blending of fragrance notes that enables you to creatively express your unique style."
+  },
+  {
+    "id": 15,
+    "name": "Soy Candle Eastern Secret",
+    "price": 6.99,
+    "time": 25,
+    "rating": 4,
+    "image": "/img/15.jpeg",
+    "description": "Fragrance notes: Top: Apple, Pear, Bergamot, Orange Zest, Tropical Fruits, Ozone Mid: Jasmine, Rose, Violet, Coconut, Cyclamen, Waterlily Base: Clean Musk, Rosewood, Green Foliage, Sandalwood, Anise"
+  }
+]
