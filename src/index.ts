@@ -2,8 +2,8 @@ import { createServer, IncomingMessage, ServerResponse } from 'http'
 import Cards from './controller/cards';
 import url from 'url';
 
-const host = 'localhost';
-const port = 8000;
+const host = process.env.HOST || 'localhost'
+const port = parseInt(process.env.PORT) || 8080;
 const requestListener = function (req: IncomingMessage, res: ServerResponse) {
   res.setHeader('Content-Type', 'application/json');
   const cards = new Cards()
