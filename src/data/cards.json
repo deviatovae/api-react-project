@@ -5,7 +5,7 @@
     "price": 9.99,
     "time": 40,
     "rating": 4,
-    "image": "/img/3.jpeg",
+    "image": "/assets/img/3.jpeg",
     "description": "Oud Sahara features rich notes of Vanilla, Exotic Woods and Bergamot. Hand Poured with vegan 100% soy wax and eco-friendly wicks."
   },
   {
@@ -14,7 +14,7 @@
     "price": 8.99,
     "time": 40,
     "rating": 5,
-    "image": "/img/6.jpeg",
+    "image": "/assets/img/6.jpeg",
     "description": "Lait de Coco captures the essence of a Creamy Coconut that you would find on an island. With fresh notes of warm Vanilla Praline, this fragrance is the ultimate coconut scent that you can burn year-round."
   },
   {
@@ -23,7 +23,7 @@
     "price": 9.99,
     "time": 40,
     "rating": 5,
-    "image": "/img/10.jpeg",
+    "image": "/assets/img/10.jpeg",
     "description": "Pistachio Brûlée features sweet notes of Milky Mousse, Pistachio Crumbs and Vanilla.\n\nMust-have, ingredient inspired and ever-trending fine fragrance."
   },
   {
@@ -32,7 +32,7 @@
     "price": 9.99,
     "time": 40,
     "rating": 5,
-    "image": "/img/13.jpeg",
+    "image": "/assets/img/13.jpeg",
     "description": "The combination of black fig and vetiver releases natural, woody notes with a hint of sweetness, reminiscent of the scent of cut grass on a warm Spring day."
   },
   {
@@ -41,7 +41,7 @@
     "price": 5.99,
     "time": 20,
     "rating": 5,
-    "image": "/img/5.jpeg",
+    "image": "/assets/img/5.png",
     "description": "This candle contains locally sourced Eucalyptus oils. This essential oil has natural cleansing, anti-bacterial properties. In aromatherapy, the aroma of Eucalyptus Essential Oil enhances the feeling of relaxation and calms nervous tension."
   },
   {
@@ -50,7 +50,7 @@
     "price": 3.99,
     "time": 20,
     "rating": 4,
-    "image": "/img/1.jpeg",
+    "image": "/assets/img/1.png",
     "description": "An enchanting floral bouquet of rich jasmine and blooming white gardenia wrap around notes of golden amber and blonde woods."
   },
   {
@@ -59,7 +59,7 @@
     "price": 5.99,
     "time": 15,
     "rating": 4,
-    "image": "/img/2.jpeg",
+    "image": "/assets/img/2.png",
     "description": "Clean and inviting, this powdery fresh scent blends tangy lemon citrus and sweet lavender flowers. Natural fiber candle wick delivers the best burn for each fragrance"
   },
   {
@@ -68,7 +68,7 @@
     "price": 9.99,
     "time": 40,
     "rating": 15,
-    "image": "/img/4.jpeg",
+    "image": "/assets/img/4.png",
     "description": "The candle is made from high-quality wax and burns evenly, providing a consistent fragrance throughout its life. The sweet candy scent lingers long after the candle has been blown out, leaving a pleasant aroma in the room. The candle also has a long burn time, allowing you to enjoy the fragrance for many hours."
   },
   {
@@ -77,7 +77,7 @@
     "price": 3.99,
     "time": 15,
     "rating": 4,
-    "image": "/img/7.jpeg",
+    "image": "/assets/img/7.png",
     "description": "A true gem for those who love fresh, floral fragrances. From the moment you light it, the candle fills the room with a lovely aroma that is reminiscent of a blooming lilac garden. The scent is well balanced and not overpowering, making it perfect for those who enjoy a subtle fragrance."
   },
   {
@@ -86,7 +86,7 @@
     "price": 3.99,
     "time": 15,
     "rating": 5,
-    "image": "/img/8.jpeg",
+    "image": "/assets/img/8.png",
     "description": "Sweet and traditional, the essence of vanilla extracted from tropical orchids. 100% recyclable in partnership with TetraCycle"
   },
   {
@@ -95,7 +95,7 @@
     "price": 4.99,
     "time": 15,
     "rating": 5,
-    "image": "/img/9.jpeg",
+    "image": "/assets/img/9.png",
     "description": " Balsam and oak moss mingle with aromatic cedar wood, cinnamon and eucalyptus in our quintessential holiday fragrance."
   },
   {
@@ -104,7 +104,7 @@
     "price": 3.99,
     "time": 20,
     "rating": 15,
-    "image": "/img/11.jpeg",
+    "image": "/assets/img/11.png",
     "description": "Fragrance notes of Walnut and Fresh Cut Balsam. Pure, snow white colored food-grade paraffin wax, fragranced by the finest scented oils."
   },
   {
@@ -113,7 +113,7 @@
     "price": 5.99,
     "time": 15,
     "rating": 4,
-    "image": "/img/12.jpeg",
+    "image": "/assets/img/12.png",
     "description": "Cotton smells like freshly washed, sun-dried bed linen and a cozy sunday with absolutely no appointments. A real feel-good scent!\n\nThis scented candle is made from 100% natural soy wax"
   },
   {
@@ -122,7 +122,7 @@
     "price": 4.99,
     "time": 10,
     "rating": 5,
-    "image": "/img/14.jpeg",
+    "image": "/assets/img/14.png",
     "description": "This candle's fresh scent will transport you to a big dewy bouquet of pastel roses with notes of almond blossom, apricot, and mirabelle plum. Grab this rose scented candle while it's still in season. An expertly curated blending of fragrance notes that enables you to creatively express your unique style."
   },
   {
@@ -131,7 +131,7 @@
     "price": 6.99,
     "time": 25,
     "rating": 4,
-    "image": "/img/15.jpeg",
+    "image": "/assets/img/15.png",
     "description": "Fragrance notes: Top: Apple, Pear, Bergamot, Orange Zest, Tropical Fruits, Ozone Mid: Jasmine, Rose, Violet, Coconut, Cyclamen, Waterlily Base: Clean Musk, Rosewood, Green Foliage, Sandalwood, Anise"
   }
 ]
