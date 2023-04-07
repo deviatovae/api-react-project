@@ -8,7 +8,7 @@ export default class Cards {
 
     const { q } = query;
     const data = typeof q === 'string' ? cards.filter((card) => {
-      const fields = [card.name, card.time, card.price, card.description]
+      const fields = [card.name, card.time, card.price]
       for (const field of fields) {
         if (field.toString().toLowerCase().includes(q.toLowerCase())) {
           return true

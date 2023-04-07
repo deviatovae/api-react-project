@@ -39,6 +39,7 @@ const requestListener = async function (req: IncomingMessage, res: ServerRespons
       res.writeHead(200);
       res.end(content);
     } catch (e) {
+      console.error(e)
       res.writeHead(404);
       res.end();
     }

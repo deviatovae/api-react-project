@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 10,
     "name": "Soy Candle Oud Sahara",
     "price": 9.99,
     "time": 40,
@@ -9,7 +9,7 @@
     "description": "Oud Sahara features rich notes of Vanilla, Exotic Woods and Bergamot. Hand Poured with vegan 100% soy wax and eco-friendly wicks."
   },
   {
-    "id": 2,
+    "id": 12,
     "name": "Soy Candle Lait de Coco",
     "price": 8.99,
     "time": 40,
@@ -67,7 +67,7 @@
     "name": "Soy Candle Cotton Candy",
     "price": 9.99,
     "time": 40,
-    "rating": 15,
+    "rating": 5,
     "image": "/assets/img/4.png",
     "description": "The candle is made from high-quality wax and burns evenly, providing a consistent fragrance throughout its life. The sweet candy scent lingers long after the candle has been blown out, leaving a pleasant aroma in the room. The candle also has a long burn time, allowing you to enjoy the fragrance for many hours."
   },
@@ -81,12 +81,12 @@
     "description": "A true gem for those who love fresh, floral fragrances. From the moment you light it, the candle fills the room with a lovely aroma that is reminiscent of a blooming lilac garden. The scent is well balanced and not overpowering, making it perfect for those who enjoy a subtle fragrance."
   },
   {
-    "id": 20,
+    "id": 1,
     "name": "Soy Candle Vanilla Sky",
     "price": 3.99,
     "time": 15,
     "rating": 5,
-    "image": "/assets/img/8.png",
+    "image": "/assets/img/8.jpeg",
     "description": "Sweet and traditional, the essence of vanilla extracted from tropical orchids. 100% recyclable in partnership with TetraCycle"
   },
   {
@@ -99,11 +99,11 @@
     "description": " Balsam and oak moss mingle with aromatic cedar wood, cinnamon and eucalyptus in our quintessential holiday fragrance."
   },
   {
-    "id": 12,
+    "id": 2,
     "name": "Soy Candle Walnut Butter",
     "price": 3.99,
     "time": 20,
-    "rating": 15,
+    "rating": 5,
     "image": "/assets/img/11.png",
     "description": "Fragrance notes of Walnut and Fresh Cut Balsam. Pure, snow white colored food-grade paraffin wax, fragranced by the finest scented oils."
   },
